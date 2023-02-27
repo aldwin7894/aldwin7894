@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**aldwin7894/aldwin7894** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Cyan★Nyan♪</h1>
+<p align="center" style="margin-bottom: 16px !important;">
+  <img src="https://i.imgur.com/NwoUh5M.gif" alt="" align="center">
+</p>
+<p align="center" style="margin-bottom: 4px !important;">
+  <img src="https://aldwin7894.win/lastfm.svg?username=aldwin7894&bg=29,31,32,0.8&fg=ffffff&line=768ee3" alt="" width="498" align="center">
+</p>
+<p align="center" style="margin-bottom: 0px !important;">
+  <img src="https://aldwin7894.win/discord-banner.svg?bg=29,31,32,0.8&fg=ffffff&line=768ee3" alt="" width="498" align="center">
+</p>
