@@ -3,8 +3,8 @@
   <img src="/cyan-banner.webp?raw=true" alt="" align="center">
 </p>
 <p align="center" style="margin-bottom: 4px !important;">
-  <img src="https://aldwin7894.win/music-np-banner/listenbrainz.svg?bg=29,31,32,0.8&fg=ffffff&line=768ee3" alt="" width="498" align="center">
+  <img src="https://aldwin7894.dev/music-np-banner/listenbrainz.svg?bg=29,31,32,0.8&fg=ffffff&line=768ee3" alt="" width="498" align="center">
 </p>
 <p align="center" style="margin-bottom: 0px !important;">
-  <img src="https://aldwin7894.win/discord-banner.svg?bg=29,31,32,0.8&fg=ffffff&line=768ee3" alt="" width="498" align="center">
+  <img src="https://aldwin7894.dev/discord-banner.svg?bg=29,31,32,0.8&fg=ffffff&line=768ee3" alt="" width="498" align="center">
 </p>
